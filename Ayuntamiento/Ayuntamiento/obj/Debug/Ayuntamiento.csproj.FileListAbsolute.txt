@@ -1,1 +1,2 @@
 C:\Users\usuario\Source\Repos\desdeGit2\Ayuntamiento\Ayuntamiento\bin\Debug\Ayuntamiento.exe.config
+C:\Users\usuario\Source\Repos\Facturacion-Ivann\Ayuntamiento\Ayuntamiento\bin\Debug\Ayuntamiento.exe.config
