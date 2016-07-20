@@ -19,7 +19,7 @@ namespace Ayuntamiento
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Hola";
+            label1.Text = "Hola mundo";
         }
 
         private void Form1_Load(object sender, EventArgs e)
